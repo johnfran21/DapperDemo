@@ -1,0 +1,12 @@
+appsettings.json
+bin/
+obj/
+*.suo
+*.user
+*.userprefs
+*.builds
+project.lock.json
+.vs/
+.vscode/
+*.nupkg
+*.snk
